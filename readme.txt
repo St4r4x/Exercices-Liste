@@ -1,0 +1,1 @@
+Ceci est un programme qui creer la table de multiplication des 10 premiers entiers naturels et qui demande à l'utilisateur de saisir les valeurs qu'il veut multiplier
